@@ -1,40 +1,42 @@
-[
-  {
-    "id": "u38qgh3hg3",
-    "content": "Start 2022 with JS Algorithm & Data Structures",
-    "likeCount": 0,
-    "comments": [
-      {
-        "id": "tey78ayt7a8eyga",
-        "content": "Kalau sudah siap berkabar aja ya",
-        "likeCount": 0,
-        "replies": [
-          {
-            "id": "gye7a8gy7e8a",
-            "content": "Oyisam wkwk",
-            "likeCount": 0
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "99999999",
-    "content": "Start 2022 with TS",
-    "likeCount": 0,
-    "comments": [
-      {
-        "id": "12121212121",
-        "content": "Kalau sudah tidak siap berkabar aja ya",
-        "likeCount": 0,
-        "replies": [
-          {
-            "id": "a5a5a5a5a5a5a5a5",
-            "content": "Tidak Oyisam wkwk",
-            "likeCount": 0
-          }
-        ]
-      }
-    ]
-  }
-]
+{
+  "posts": [
+    {
+      "id": "u38qgh3hg3",
+      "content": "Start 2022 with JS Algorithm & Data Structures",
+      "likeCount": 0,
+      "comments": [
+        {
+          "id": "tey78ayt7a8eyga",
+          "content": "Kalau sudah siap berkabar aja ya",
+          "likeCount": 0,
+          "replies": [
+            {
+              "id": "gye7a8gy7e8a",
+              "content": "Oyisam wkwk",
+              "likeCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99999999",
+      "content": "Start 2022 with TS",
+      "likeCount": 0,
+      "comments": [
+        {
+          "id": "12121212121",
+          "content": "Kalau sudah tidak siap berkabar aja ya",
+          "likeCount": 0,
+          "replies": [
+            {
+              "id": "a5a5a5a5a5a5a5a5",
+              "content": "Tidak Oyisam wkwk",
+              "likeCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
